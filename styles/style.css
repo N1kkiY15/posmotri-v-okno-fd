@@ -288,10 +288,6 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
   padding: 0 3px;
 }
 
-.content__list-item {
-  padding: 0 3px;
-}
-
 .content__list-item:hover {
   text-decoration: underline;
 }
@@ -304,6 +300,3 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
   outline: none;
 }
 
-.content__list-item:focus {
-  outline: 1px solid white;
-}
